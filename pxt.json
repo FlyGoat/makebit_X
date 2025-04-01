@@ -1,7 +1,7 @@
 {
-    "name": "makebit",
+    "name": "makebit_robo_edi",
     "version": "3.0",
-    "description": "Extension for clb Robots micro:bit",
+    "description": "Extension for EDI Robots micro:bit",
     "license": "MIT",
     "dependencies": {
         "core": "*",
