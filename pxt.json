@@ -5,8 +5,8 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.6.9",
-        "cbit_IR": "github:zhuning239/cBit_IR",
+        "neopixel": "github:microsoft/pxt-neopixel",
+        "cbit_IR": "github:zhuning239/cBit_IR_V2",
         "TM1650": "github:zhuning239/TM1650"
     },
     "files": [
